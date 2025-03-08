@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wwk67A8Huc3dYbVClSlXnGgIMtgqUPF07GSWLrQ/hzk=",
+  "Hash": "Ksk24oJN6C2c2+g6XvqMLUJNpJ6tWAn/pQPYGTUdo8Q=",
   "Source": "mvcapp",
   "BasePath": "_content/mvcapp",
   "Mode": "Default",
@@ -36,27 +36,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
-    },
-    {
-      "Identity": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/0hvkdzrsqa-1lb8gqgd36.gz",
-      "SourceId": "mvcapp",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/",
-      "BasePath": "_content/mvcapp",
-      "RelativePath": "mvcapp#[.{fingerprint=1lb8gqgd36}]?.styles.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/scopedcss/bundle/mvcapp.styles.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "pa3pjglaqb",
-      "Integrity": "8d/zp7XgWwQlvrm+gyaxN7/HTz1cWOJ94KxVqBLV+2E=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/scopedcss/bundle/mvcapp.styles.css"
     },
     {
       "Identity": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/0wsdp6drbr-ag7o75518u.gz",
@@ -204,6 +183,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/lib/jquery/dist/jquery.slim.js"
+    },
+    {
+      "Identity": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/622yzxr51i-4dhfcr1nhn.gz",
+      "SourceId": "mvcapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/mvcapp",
+      "RelativePath": "css/custom#[.{fingerprint=4dhfcr1nhn}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/css/custom.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "60rq1smbgu",
+      "Integrity": "NrxWzIhY0XJSlYF4J3nJQI/daTU/UZOvzcL4KAUh9ws=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/css/custom.css"
     },
     {
       "Identity": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/6b904ftyok-63fj8s7r0e.gz",
@@ -498,27 +498,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
-    },
-    {
-      "Identity": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/cs1redhrcs-1lb8gqgd36.gz",
-      "SourceId": "mvcapp",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/",
-      "BasePath": "_content/mvcapp",
-      "RelativePath": "mvcapp#[.{fingerprint=1lb8gqgd36}]!.bundle.scp.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/scopedcss/projectbundle/mvcapp.bundle.scp.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "pa3pjglaqb",
-      "Integrity": "8d/zp7XgWwQlvrm+gyaxN7/HTz1cWOJ94KxVqBLV+2E=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/scopedcss/projectbundle/mvcapp.bundle.scp.css"
     },
     {
       "Identity": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/cwtno2u1lr-k8d9w2qqmf.gz",
@@ -1025,12 +1004,12 @@
       "OriginalItemSpec": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/rs065lgjb2-b9sayid5wm.gz",
+      "Identity": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/rs065lgjb2-qryee8ggeu.gz",
       "SourceId": "mvcapp",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/mvcapp",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=qryee8ggeu}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1039,8 +1018,8 @@
       "RelatedAsset": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/css/site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "pw5l7j5n1s",
-      "Integrity": "KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA=",
+      "Fingerprint": "so5hytz8b7",
+      "Integrity": "9KJPE2vF0/3DHC932Us9pnhe/EEqZxTse0Y9GWf2lvI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/css/site.css"
@@ -1361,46 +1340,25 @@
       "OriginalItemSpec": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/scopedcss/bundle/mvcapp.styles.css",
+      "Identity": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/css/custom.css",
       "SourceId": "mvcapp",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/scopedcss/bundle/",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/",
       "BasePath": "_content/mvcapp",
-      "RelativePath": "mvcapp#[.{fingerprint}]?.styles.css",
+      "RelativePath": "css/custom#[.{fingerprint}]?.css",
       "AssetKind": "All",
-      "AssetMode": "CurrentProject",
+      "AssetMode": "All",
       "AssetRole": "Primary",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "1lb8gqgd36",
-      "Integrity": "WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA=",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4dhfcr1nhn",
+      "Integrity": "qK3RK41TjQlOzvNweHJOMnVn6lJ0HK5ieqTe9IuoltE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/scopedcss/bundle/mvcapp.styles.css"
-    },
-    {
-      "Identity": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/scopedcss/projectbundle/mvcapp.bundle.scp.css",
-      "SourceId": "mvcapp",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/scopedcss/projectbundle/",
-      "BasePath": "_content/mvcapp",
-      "RelativePath": "mvcapp#[.{fingerprint}]!.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "1lb8gqgd36",
-      "Integrity": "WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/scopedcss/projectbundle/mvcapp.bundle.scp.css"
+      "OriginalItemSpec": "wwwroot/css/custom.css"
     },
     {
       "Identity": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/css/site.css",
@@ -1417,8 +1375,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "qryee8ggeu",
+      "Integrity": "hpWRf+hAv18mTlWesOfFJ5ExAK7Del42BptHnrk+eXY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -2728,13 +2686,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/rs065lgjb2-b9sayid5wm.gz",
+      "Route": "css/custom.4dhfcr1nhn.css",
+      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/622yzxr51i-4dhfcr1nhn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.001834862385"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2702,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "544"
         },
         {
           "Name": "ETag",
-          "Value": "\"KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA=\""
+          "Value": "\"NrxWzIhY0XJSlYF4J3nJQI/daTU/UZOvzcL4KAUh9ws=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:35:53 GMT"
+          "Value": "Fri, 07 Mar 2025 23:13:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,26 +2730,316 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"qK3RK41TjQlOzvNweHJOMnVn6lJ0HK5ieqTe9IuoltE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "4dhfcr1nhn"
         },
         {
           "Name": "label",
-          "Value": "css/site.css"
+          "Value": "css/custom.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-qK3RK41TjQlOzvNweHJOMnVn6lJ0HK5ieqTe9IuoltE="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/custom.4dhfcr1nhn.css",
+      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/css/custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qK3RK41TjQlOzvNweHJOMnVn6lJ0HK5ieqTe9IuoltE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 23:13:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4dhfcr1nhn"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qK3RK41TjQlOzvNweHJOMnVn6lJ0HK5ieqTe9IuoltE="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.4dhfcr1nhn.css.gz",
+      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/622yzxr51i-4dhfcr1nhn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NrxWzIhY0XJSlYF4J3nJQI/daTU/UZOvzcL4KAUh9ws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 23:13:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4dhfcr1nhn"
+        },
+        {
+          "Name": "label",
+          "Value": "css/custom.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NrxWzIhY0XJSlYF4J3nJQI/daTU/UZOvzcL4KAUh9ws="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.css",
+      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/622yzxr51i-4dhfcr1nhn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001834862385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NrxWzIhY0XJSlYF4J3nJQI/daTU/UZOvzcL4KAUh9ws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 23:13:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qK3RK41TjQlOzvNweHJOMnVn6lJ0HK5ieqTe9IuoltE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qK3RK41TjQlOzvNweHJOMnVn6lJ0HK5ieqTe9IuoltE="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.css",
+      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/css/custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1313"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qK3RK41TjQlOzvNweHJOMnVn6lJ0HK5ieqTe9IuoltE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 23:13:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qK3RK41TjQlOzvNweHJOMnVn6lJ0HK5ieqTe9IuoltE="
+        }
+      ]
+    },
+    {
+      "Route": "css/custom.css.gz",
+      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/622yzxr51i-4dhfcr1nhn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NrxWzIhY0XJSlYF4J3nJQI/daTU/UZOvzcL4KAUh9ws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 23:13:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NrxWzIhY0XJSlYF4J3nJQI/daTU/UZOvzcL4KAUh9ws="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/rs065lgjb2-qryee8ggeu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003289473684"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "303"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9KJPE2vF0/3DHC932Us9pnhe/EEqZxTse0Y9GWf2lvI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 23:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hpWRf+hAv18mTlWesOfFJ5ExAK7Del42BptHnrk+eXY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hpWRf+hAv18mTlWesOfFJ5ExAK7Del42BptHnrk+eXY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
       "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +3049,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "630"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +3057,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"hpWRf+hAv18mTlWesOfFJ5ExAK7Del42BptHnrk+eXY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:35:53 GMT"
+          "Value": "Fri, 07 Mar 2025 23:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hpWRf+hAv18mTlWesOfFJ5ExAK7Del42BptHnrk+eXY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/rs065lgjb2-qryee8ggeu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9KJPE2vF0/3DHC932Us9pnhe/EEqZxTse0Y9GWf2lvI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 23:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9KJPE2vF0/3DHC932Us9pnhe/EEqZxTse0Y9GWf2lvI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.qryee8ggeu.css",
+      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/rs065lgjb2-qryee8ggeu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003289473684"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "303"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9KJPE2vF0/3DHC932Us9pnhe/EEqZxTse0Y9GWf2lvI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 23:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hpWRf+hAv18mTlWesOfFJ5ExAK7Del42BptHnrk+eXY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qryee8ggeu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hpWRf+hAv18mTlWesOfFJ5ExAK7Del42BptHnrk+eXY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.qryee8ggeu.css",
+      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hpWRf+hAv18mTlWesOfFJ5ExAK7Del42BptHnrk+eXY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Mar 2025 23:14:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +3216,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "qryee8ggeu"
         },
         {
           "Name": "label",
@@ -2831,13 +3224,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-hpWRf+hAv18mTlWesOfFJ5ExAK7Del42BptHnrk+eXY="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/rs065lgjb2-b9sayid5wm.gz",
+      "Route": "css/site.qryee8ggeu.css.gz",
+      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/rs065lgjb2-qryee8ggeu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2846,7 +3239,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "303"
         },
         {
           "Name": "Content-Type",
@@ -2854,11 +3247,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA=\""
+          "Value": "\"9KJPE2vF0/3DHC932Us9pnhe/EEqZxTse0Y9GWf2lvI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:35:53 GMT"
+          "Value": "Fri, 07 Mar 2025 23:14:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +3269,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "qryee8ggeu"
         },
         {
           "Name": "label",
@@ -2884,144 +3277,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/rs065lgjb2-b9sayid5wm.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003134796238"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:35:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/wwwroot/css/site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "667"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:35:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/rs065lgjb2-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:35:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KbRAtTdCZlkPQMEP8615MCQRMWQsaAwQYpxvPAoetmA="
+          "Value": "sha256-9KJPE2vF0/3DHC932Us9pnhe/EEqZxTse0Y9GWf2lvI="
         }
       ]
     },
@@ -3348,7 +3604,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:35:53 GMT"
+          "Value": "Fri, 07 Mar 2025 23:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3401,7 +3657,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:35:53 GMT"
+          "Value": "Fri, 07 Mar 2025 23:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3438,7 +3694,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:35:53 GMT"
+          "Value": "Fri, 07 Mar 2025 23:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3485,7 +3741,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:35:53 GMT"
+          "Value": "Fri, 07 Mar 2025 23:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3546,7 +3802,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:35:53 GMT"
+          "Value": "Fri, 07 Mar 2025 23:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3591,7 +3847,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:35:53 GMT"
+          "Value": "Fri, 07 Mar 2025 23:14:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21282,602 +21538,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-F1wMlgb/juW08DFUssW6Pm9EBKfjXXRiSK0F5FgXxJU="
-        }
-      ]
-    },
-    {
-      "Route": "mvcapp.1lb8gqgd36.bundle.scp.css",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/cs1redhrcs-1lb8gqgd36.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001883239171"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "530"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8d/zp7XgWwQlvrm+gyaxN7/HTz1cWOJ94KxVqBLV+2E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:48:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1lb8gqgd36"
-        },
-        {
-          "Name": "label",
-          "Value": "mvcapp.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA="
-        }
-      ]
-    },
-    {
-      "Route": "mvcapp.1lb8gqgd36.bundle.scp.css",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/scopedcss/projectbundle/mvcapp.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1075"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:48:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1lb8gqgd36"
-        },
-        {
-          "Name": "label",
-          "Value": "mvcapp.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA="
-        }
-      ]
-    },
-    {
-      "Route": "mvcapp.1lb8gqgd36.bundle.scp.css.gz",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/cs1redhrcs-1lb8gqgd36.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "530"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8d/zp7XgWwQlvrm+gyaxN7/HTz1cWOJ94KxVqBLV+2E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:48:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1lb8gqgd36"
-        },
-        {
-          "Name": "label",
-          "Value": "mvcapp.bundle.scp.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8d/zp7XgWwQlvrm+gyaxN7/HTz1cWOJ94KxVqBLV+2E="
-        }
-      ]
-    },
-    {
-      "Route": "mvcapp.1lb8gqgd36.styles.css",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/0hvkdzrsqa-1lb8gqgd36.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001883239171"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "530"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8d/zp7XgWwQlvrm+gyaxN7/HTz1cWOJ94KxVqBLV+2E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:48:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1lb8gqgd36"
-        },
-        {
-          "Name": "label",
-          "Value": "mvcapp.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA="
-        }
-      ]
-    },
-    {
-      "Route": "mvcapp.1lb8gqgd36.styles.css",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/scopedcss/bundle/mvcapp.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1075"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:48:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1lb8gqgd36"
-        },
-        {
-          "Name": "label",
-          "Value": "mvcapp.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA="
-        }
-      ]
-    },
-    {
-      "Route": "mvcapp.1lb8gqgd36.styles.css.gz",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/0hvkdzrsqa-1lb8gqgd36.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "530"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8d/zp7XgWwQlvrm+gyaxN7/HTz1cWOJ94KxVqBLV+2E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:48:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1lb8gqgd36"
-        },
-        {
-          "Name": "label",
-          "Value": "mvcapp.styles.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8d/zp7XgWwQlvrm+gyaxN7/HTz1cWOJ94KxVqBLV+2E="
-        }
-      ]
-    },
-    {
-      "Route": "mvcapp.bundle.scp.css",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/cs1redhrcs-1lb8gqgd36.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001883239171"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "530"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8d/zp7XgWwQlvrm+gyaxN7/HTz1cWOJ94KxVqBLV+2E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:48:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA="
-        }
-      ]
-    },
-    {
-      "Route": "mvcapp.bundle.scp.css",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/scopedcss/projectbundle/mvcapp.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1075"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:48:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA="
-        }
-      ]
-    },
-    {
-      "Route": "mvcapp.bundle.scp.css.gz",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/cs1redhrcs-1lb8gqgd36.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "530"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8d/zp7XgWwQlvrm+gyaxN7/HTz1cWOJ94KxVqBLV+2E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:48:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8d/zp7XgWwQlvrm+gyaxN7/HTz1cWOJ94KxVqBLV+2E="
-        }
-      ]
-    },
-    {
-      "Route": "mvcapp.styles.css",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/0hvkdzrsqa-1lb8gqgd36.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001883239171"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "530"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8d/zp7XgWwQlvrm+gyaxN7/HTz1cWOJ94KxVqBLV+2E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:48:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA="
-        }
-      ]
-    },
-    {
-      "Route": "mvcapp.styles.css",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/scopedcss/bundle/mvcapp.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1075"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:48:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WxsmQyckRvOaX2FpBQb6ag+BbYwaUtnHOk3EvC10QXA="
-        }
-      ]
-    },
-    {
-      "Route": "mvcapp.styles.css.gz",
-      "AssetFile": "/Users/kevrodriguez/Library/CloudStorage/OneDrive-Personal/Documentos/2. DocumentosKevin/1. ING. EN DESARROLLO DE SOFTWARE/PROGRAMACION DE BASE DE DATOS/MVCPrueba/mvcapp/obj/Debug/net9.0/compressed/0hvkdzrsqa-1lb8gqgd36.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "530"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8d/zp7XgWwQlvrm+gyaxN7/HTz1cWOJ94KxVqBLV+2E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 15:48:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8d/zp7XgWwQlvrm+gyaxN7/HTz1cWOJ94KxVqBLV+2E="
         }
       ]
     }

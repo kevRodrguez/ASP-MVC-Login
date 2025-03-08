@@ -1,0 +1,85 @@
+@* /Views/Shared/_Sidebar.cshtml *@
+<div id="sidebar-wrapper" class="collapse show d-flex flex-column justify-content-between"
+  style="min-height: calc(100vh - 60px);">
+  <!-- Sección superior: menús y elementos colapsables -->
+  <div>
+    <div class="list-group list-group-flush mt-4">
+      @if (!string.IsNullOrEmpty(Context.Session.GetString("Nombre")))
+      {
+        <button class="btn btn-primary mb-4 btn-rect" type="button" id="toggleSidebar">
+          <i class="fas fa-bars"></i>
+        </button>
+
+
+      }
+      <a href="/Dashboard/Index" class="list-group-item list-group-item-action">
+        <i class="fas fa-home"></i> <span class="link-text">Inicio</span>
+      </a>
+      <!-- Elemento colapsable: Usuarios -->
+      <a class="list-group-item list-group-item-action" data-bs-toggle="collapse" href="#collapseUsuarios" role="button"
+        aria-expanded="false" aria-controls="collapseUsuarios">
+        <i class="fas fa-users"></i> <span class="link-text">Usuarios</span>
+      </a>
+      <div class="collapse" id="collapseUsuarios">
+        <div class="list-group collapse-inner">
+          <a href="/Dashboard/Usuarios/List" class="list-group-item list-group-item-action">Listar Usuarios</a>
+          <a href="/Dashboard/Usuarios/Create" class="list-group-item list-group-item-action">Crear Usuario</a>
+        </div>
+      </div>
+      <!-- Elemento colapsable: Rutas -->
+      <a class="list-group-item list-group-item-action" data-bs-toggle="collapse" href="#collapseRutas" role="button"
+        aria-expanded="false" aria-controls="collapseRutas">
+        <i class="fas fa-route"></i> <span class="link-text">Rutas</span>
+      </a>
+      <div class="collapse" id="collapseRutas">
+        <div class="list-group collapse-inner">
+          <a href="/Dashboard/Rutas/List" class="list-group-item list-group-item-action">Listar Rutas</a>
+          <a href="/Dashboard/Rutas/Create" class="list-group-item list-group-item-action">Crear Ruta</a>
+        </div>
+      </div>
+      @* TRANSPORTES *@
+      <a class="list-group-item list-group-item-action" data-bs-toggle="collapse" href="#collapseBuses" role="button"
+        aria-expanded="false" aria-controls="collapseBuses">
+        <i class="fas fa-bus"></i> <span class="link-text">Transportes</span>
+      </a>
+      <div class="collapse" id="collapseBuses">
+        <div class="list-group collapse-inner">
+          <a class="list-group-item list-group-item-action" asp-controller="Dashboard" asp-action="VerBus">Ver
+            Transportes</a>
+          <a asp-controller="Dashboard" asp-action="CrearBus" class="list-group-item list-group-item-action">Crear
+            Transporte</a>
+          @* MARCAS *@
+          <a class="list-group-item list-group-item-action" data-bs-toggle="collapse" href="#collapseMarca"
+            role="button" aria-expanded="false" aria-controls="collapseMarca">
+            <i class="fas fa-copyright"></i> <span class="link-text">Marca</span>
+          </a>
+          <div class="collapse" id="collapseMarca">
+            <div class="list-group collapse-inner">
+              <a asp-controller="Dashboard" asp-action="Marcas"
+                class="list-group-item list-group-item-action">Marcas</a>
+              <a asp-controller="Dashboard" asp-action="Modelos"
+                class="list-group-item list-group-item-action">Modelos</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Elemento colapsable: Reportes -->
+      <a class="list-group-item list-group-item-action" data-bs-toggle="collapse" href="#collapseReportes" role="button"
+        aria-expanded="false" aria-controls="collapseReportes">
+        <i class="fas fa-chart-line"></i> <span class="link-text">Reportes</span>
+      </a>
+      <div class="collapse" id="collapseReportes">
+        <div class="list-group collapse-inner">
+          <a href="/Dashboard/Reportes/Daily" class="list-group-item list-group-item-action">Diarios</a>
+          <a href="/Dashboard/Reportes/Monthly" class="list-group-item list-group-item-action">Mensuales</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Sección inferior: botón de salir -->
+  <div class="m-3">
+    <a href="/Account/Logout" class="list-group-item list-group-item-action">
+      <i class="fas fa-sign-out-alt"></i> <span class="link-text">Salir</span>
+    </a>
+  </div>
+</div>

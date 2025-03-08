@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using mvcapp.Data;
 
@@ -10,9 +11,11 @@ using mvcapp.Data;
 namespace mvcapp.Migrations
 {
     [DbContext(typeof(MyAppContext))]
-    partial class MyAppContextModelSnapshot : ModelSnapshot
+    [Migration("20250306174514_NuevaMigracion")]
+    partial class NuevaMigracion
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -20,41 +23,6 @@ namespace mvcapp.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
-
-            modelBuilder.Entity("mvcapp.Models.Empresa", b =>
-                {
-                    b.Property<int>("id_empresa")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id_empresa"));
-
-                    b.Property<string>("NIT")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Representante")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("direccion")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("email")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("nombre_empresa")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("razonsocial")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("telefono")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("id_empresa");
-
-                    b.ToTable("Empresas");
-                });
 
             modelBuilder.Entity("mvcapp.Models.Marca", b =>
                 {

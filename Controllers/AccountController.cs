@@ -57,7 +57,7 @@ namespace mvcapp.Controllers
             HttpContext.Session.SetString("Apellido", usuario?.Apellido ?? string.Empty);
             HttpContext.Session.SetString("Email", usuario?.Email ?? string.Empty);
 
-            return RedirectToAction("Dashboard"); // Redirige a la vista de perfil
+            return RedirectToAction("Index", "Dashboard"); // Redirige a la vista de perfil
 
         }
 
@@ -83,7 +83,6 @@ namespace mvcapp.Controllers
             return View(model);
         }
 
-        [HttpGet]
         public IActionResult Login()
         {
             return View();

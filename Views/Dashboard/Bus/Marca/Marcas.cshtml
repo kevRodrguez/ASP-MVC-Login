@@ -1,0 +1,140 @@
+@model IEnumerable<mvcapp.Models.Marca>
+
+@{
+    ViewData["Title"] = "CRUD de Marcas de Buses";
+}
+
+
+<h2 class="text-center fw-bold pt-5">Marcas de Transportes (Buses)</h2>
+
+<div class="container mt-5">
+    <div class="row mb-3">
+        <!-- Botón para abrir el modal de creación -->
+        <div text-end">
+            <button type="button" class="btn btn-primary fa fa-plus p-2 px-3" data-bs-toggle="modal"
+                data-bs-target="#createModal">
+                @* <a style="font-family: 'Montserrat', sans-serif; font-weight: 600; color: white;"></a> *@
+
+            </button>
+        </div>
+    </div>
+    <div class="row">
+        <!-- Tabla de Marcas -->
+        <div class="col-md-12">
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>Nombre de Marca</th>
+                        <th>Descripción</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.nombre_marca</td>
+                            <td>@item.descripcion</td>
+                            <td>
+                                <!-- Botón de Editar: abre el modal de edición y carga los datos vía atributos data -->
+                                <button type="button" class="btn btn-sm btn-warning editBtn fa fa-pen p-2 px-3"
+                                    data-bs-toggle="modal" data-bs-target="#updateModal" data-id="@item.id_marca"
+                                    data-nombre="@item.nombre_marca" data-descripcion="@item.descripcion">
+                                </button>
+                                <!-- Botón de Eliminar: formulario POST -->
+                                <form asp-controller="Buses" asp-action="DeleteMarca" asp-route-id="@item.id_marca"
+                                    method="post" style="display:inline">
+                                    @Html.AntiForgeryToken()
+                                    <button type="submit" class="btn btn-sm btn-danger fa fa-trash p-2 px-3"
+                                        onclick="return confirm('¿Estás seguro de eliminar esta marca?');"> </button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<!-- Modal para Crear Marca -->
+<div class="modal fade" id="createModal" tabindex="-1" aria-labelledby="createModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="createModalLabel">Agregar Nueva Marca</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+            </div>
+            <div class="modal-body">
+                <form asp-controller="Buses" asp-action="CreateMarca" method="post" id="createForm">
+                    @Html.AntiForgeryToken()
+                    <div class="mb-3">
+                        <label for="create_nombre" class="form-label">Nombre de Marca</label>
+                        <input type="text" class="form-control" id="create_nombre" name="nombre_marca"
+                            placeholder="Ingresa el nombre" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="create_descripcion" class="form-label">Descripción</label>
+                        <input type="text" class="form-control" id="create_descripcion" name="descripcion"
+                            placeholder="Ingresa una descripción (opcional)" />
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                        <button type="submit" class="btn btn-primary">Agregar Marca</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal para Actualizar Marca -->
+<div class="modal fade" id="updateModal" tabindex="-1" aria-labelledby="updateModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="updateModalLabel">Editar Marca</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+            </div>
+            <div class="modal-body">
+                <form asp-controller="Buses" asp-action="UpdateMarca" method="post" id="updateForm">
+                    @Html.AntiForgeryToken()
+                    <!-- Campo oculto para id -->
+                    <input type="hidden" id="update_id_marca" name="id_marca" />
+                    <div class="mb-3">
+                        <label for="update_nombre" class="form-label">Nombre de Marca</label>
+                        <input type="text" class="form-control" id="update_nombre" name="nombre_marca"
+                            placeholder="Ingresa el nombre" />
+                    </div>
+                    <div class="mb-3">
+                        <label for="update_descripcion" class="form-label">Descripción</label>
+                        <input type="text" class="form-control" id="update_descripcion" name="descripcion"
+                            placeholder="Ingresa una descripción (opcional)" />
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                        <button type="submit" class="btn btn-primary">Actualizar Marca</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        // Al hacer clic en el botón de edición, llenar los campos del modal Update
+        document.querySelectorAll('.editBtn').forEach(button => {
+            button.addEventListener('click', function () {
+                const id = this.getAttribute('data-id');
+                const nombre = this.getAttribute('data-nombre');
+                const descripcion = this.getAttribute('data-descripcion');
+
+                document.getElementById('update_id_marca').value = id;
+                document.getElementById('update_nombre').value = nombre;
+                document.getElementById('update_descripcion').value = descripcion;
+            });
+        });
+    </script>
+}

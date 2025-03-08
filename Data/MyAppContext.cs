@@ -14,9 +14,12 @@ namespace mvcapp.Data
         {
 
         }
-
-        public DbSet<Item> Items { get; set; }
-
         public DbSet<Usuario> Usuarios { get; set; }
+
+        public DbSet<Transporte> Transportes { get; set; }
+
+        public DbSet<Marca> Marcas { get; set; }
+
+        public DbSet<Empresa> Empresas { get; set; }
     }
 }

@@ -1,0 +1,72 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+}
+
+/* Contenedor principal: sidebar y contenido */
+#wrapper {
+    display: flex;
+}
+
+/* Estado expandido (por defecto) */
+#sidebar-wrapper {
+    width: 200px;
+    transition: width 0.3s ease;
+    background: #23272b;
+}
+
+/* Contenido principal */
+#page-content-wrapper {
+    flex: 1;
+    padding: 20px;
+}
+
+/* Estado colapsado: solo muestra íconos */
+#sidebar-wrapper.sidebar-collapsed {
+    width: 80px;
+    /* centrar los iconos */
+    align-items: center;
+}
+
+/* Oculta el texto de los links en modo colapsado */
+#sidebar-wrapper.sidebar-collapsed .link-text {
+    display: none;
+}
+
+#sidebar-wrapper .sidebar-heading {
+    padding: 20px;
+    font-size: 1.25rem;
+    color: #fff;
+    text-align: center;
+    background: #23272b;
+}
+
+#sidebar-wrapper .list-group-item {
+    background: #23272b;
+    color: rgba(255, 255, 255, 0.8);
+    border: none;
+}
+
+#sidebar-wrapper .list-group-item:hover {
+    background: #23272b;
+    color: #fff;
+}
+
+/* Submenús colapsables */
+.collapse-inner a {
+    padding-left: 2.5rem;
+    font-size: 1rem;
+    color: #23272b;
+    text-decoration: none;
+}
+
+.collapse-inner a:hover {
+    color: #23272b;
+}
+
+.btn-rect {
+    border-radius: 0.25rem;
+    display: block;
+    margin: 0 auto;
+    padding: 0.5rem 1rem;
+  }
